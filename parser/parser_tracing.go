@@ -7,7 +7,7 @@ import (
 
 var traceLevel int = 0
 
-var isTrace bool = false
+var isTrace bool = true
 
 const traceIdentPlaceholder string = "\t"
 
